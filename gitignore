@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+env/
+venv/
+
+# Data files
+data/*.csv
+models/*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# System
+.DS_Store
+
+# Output
+predictions.csv
